@@ -1,7 +1,7 @@
 # Breast Cancer Classification
 
-Predicting if the cancer diagnosis is benign or malignant based on several observations/features 
-30 features are used, examples:
+-Predicting if the cancer diagnosis is benign or malignant based on several observations/features 
+-30 features are used, examples:
 
         - radius (mean of distances from center to points on the perimeter)
         - texture (standard deviation of gray-scale values)
@@ -14,10 +14,10 @@ Predicting if the cancer diagnosis is benign or malignant based on several obser
         - symmetry 
         - fractal dimension ("coastline approximation" - 1)
 
-Datasets are linearly separable using all 30 input features
-Number of Instances(rows): 569
-Class Distribution: 212 Malignant, 357 Benign
-Target class:
+-Datasets are linearly separable using all 30 input features
+-Number of Instances(rows): 569
+-Class Distribution: 212 Malignant, 357 Benign
+-Target class:
          - Malignant (Severe; Life threatening)
          - Benign
 
